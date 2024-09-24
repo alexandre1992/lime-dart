@@ -11,7 +11,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  uuid: ^3.0.5
+  uuid: ^4.2.2
   simple_logger: ^1.9.0
   pretty_json: ^2.0.0
   
